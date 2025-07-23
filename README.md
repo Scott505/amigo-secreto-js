@@ -21,7 +21,7 @@ Permite ingresar una lista de participantes y realizar un sorteo simple para rev
 2. Abrí el archivo `index.html` en tu navegador preferido.
 
 ✅ También podés verlo publicado directamente en GitHub Pages:  
-🔗 https://scott505.github.io
+🔗 https://scott505.github.io/amigo-secreto-js/
 
 ## ⚠️ Nota
 
